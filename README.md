@@ -1,5 +1,5 @@
 ![logo](https://github.com/Ankush1200/Ankush1200/blob/main/Github_Banner.png?raw=true)
-<h1 align="center">Hi 👋, I'm Ankush Prjapati</h1>
+<h1 align="center">Hi 👋, I'm Ankush Prajapati</h1>
 <h3 align="center">I am currently studying as a B-tech student of Information Technology</h3>
 
 <img align="right" alt="coding" width="400px" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
