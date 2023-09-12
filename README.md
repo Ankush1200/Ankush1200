@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/Ankush1200/Ankush1200/main/Github_Banner.png)
+![logo](https://raw.githubusercontent.com/Ankush1200/Ankush1200/main/Github_banner.png)
 <h1 align="center">Hi 👋, I'm Ankush Prajapati</h1>
 <h3 align="center">I am currently studying as a B-tech student of Information Technology</h3>
 
