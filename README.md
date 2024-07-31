@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ankush+Prajapati;Programmer+%7C+Flutter+Developer;IT+%7C+Graduate+Student" alt="Typing SVG" /></a>
 </p>
-<h3 align="center">I am currently studying as a B-tech student of Information Technology</h3>
+<h3 align="center">I have a good foundation in information technology and finished a bachelor's degree in 2024</h3>
 
 <img align="right" alt="coding" width="400px" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
 
